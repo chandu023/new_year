@@ -3,7 +3,7 @@
 <head>
 <body background="https://farm5.staticflickr.com/4489/37850895246_de1e57d263_b.jpg">             <h1 style="color:yellow;text-align:center;">Happy new year</h1>
 <h1 style="color:yellow;">Get ready... we have only </h1>
-  <h1 style="position: fixed; bottom: 0; width:100%;color:DodgerBlue;text-align:center;">Wishes From Harish</h1>
+  <h1 style="position: fixed; bottom: 0; width:100%;color:DodgerBlue;text-align:center;">Wishes From CHANDRA SHEKHAR</h1>
 <style>
 
 p {
